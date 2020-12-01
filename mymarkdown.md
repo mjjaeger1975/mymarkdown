@@ -64,7 +64,7 @@ import pyfiglet
 ascii_banner = pyfiglet.figlet_format("Hallo Pingu!")
 print(ascii_banner)
 ```
-Now with an English Translation!
+hier habe ich noch eine englische übersetzung
 ```Python
 import pyfiglet
 
